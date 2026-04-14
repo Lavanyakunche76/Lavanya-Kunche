@@ -1,4 +1,4 @@
-# Lavanya-Kunch# 💫 About Me:
+# lavanyakunche76# 💫 About Me:
 Hi, I'm Lavanya Kunche 👋  <br>Final Year B.Tech (Software Engineering) student focused on building scalable and production-ready applications.<br><br>🔹 Technical Interests<br>- Full Stack Web Development<br>- Backend Engineering<br>- REST API Development<br>- AWS Cloud Applications<br>- Distributed Systems<br>- System Design Fundamentals<br>- Software Engineer<br><br>🔹 Tech Stack<br>- Frontend: React.js, HTML, CSS, JavaScript<br>- Backend: Node.js, Express.js<br>- Database: MongoDB<br>- Cloud: AWS (S3, EC2, IAM – Learning & Implementing)<br>- Tools: Git, GitHub, CI/CD, Postman<br><br>🔹 Core Strengths<br>- API Design & Integration<br>- Authentication & Authorization (JWT)<br>- Database Schema Design<br>- Debugging & Performance Optimization<br>- Clean Code & Modular Architecture<br><br>Currently building real-world projects and preparing for Software Engineer, Full Stack Developer, Backend Developer, and Cloud Engineer roles.
 
 
